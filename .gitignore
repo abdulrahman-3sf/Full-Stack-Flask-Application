@@ -1,0 +1,21 @@
+# Ignore virtual environment
+.venv/
+
+# Optional: Ignore Python cache and build files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Ignore environment files
+.env
+*.env
+.flaskenv
+
+# Ignore IDE/editor settings
+.vscode/
+.idea/
+*.swp
+.DS_Store
